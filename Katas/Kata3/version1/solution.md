@@ -1,2 +1,2 @@
 # Solución
-![](../../images/UserCase.svg)
+![](../../images/userCase.svg)
