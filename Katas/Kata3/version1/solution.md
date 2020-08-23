@@ -1,1 +1,2 @@
 # Solución
+![](../../../images/UseCase.svg)
