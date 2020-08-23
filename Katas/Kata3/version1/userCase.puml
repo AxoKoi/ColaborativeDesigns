@@ -1,0 +1,26 @@
+@startuml
+
+'Participants
+left to right direction
+skinparam packageStyle rectangle
+actor User
+
+rectangle "Catalogue CRUD " {
+User --> (CRUD on Catalogue) 
+}
+
+
+'Relationships
+rectangle "Catalogue management (CRUD CD)" {
+User --> (Create CD) 
+User --> (Retrieves CD)
+User --> (Updates CD)
+User --> (Deletes CD)
+}
+
+'Relationships
+rectangle "Metadata" {
+User --> (Creates new Metadata) 
+User --> (Adds metadata to CD)
+}
+@enduml
