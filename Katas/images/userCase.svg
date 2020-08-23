@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="606px" preserveAspectRatio="none" style="width:394px;height:606px;" version="1.1" viewBox="0 0 394 606" width="394px" zoomAndPan="magnify"><defs><filter height="300%" id="f986q2vofaf6a" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[9e53a4c0ea4ff2bb3016f19b79323e62]
+cluster Catalogue CRUD --><rect fill="#FFFFFF" filter="url(#f986q2vofaf6a)" height="89" style="stroke: #000000; stroke-width: 1.5;" width="198" x="130" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="130" x="161.5" y="21.9951">Catalogue CRUD</text><!--MD5=[a283f136a335621f51115f2c1b881c02]
+cluster Catalogue management (CRUD CD)--><rect fill="#FFFFFF" filter="url(#f986q2vofaf6a)" height="275" style="stroke: #000000; stroke-width: 1.5;" width="296" x="81" y="120"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="280" x="89" y="134.9951">Catalogue management (CRUD CD)</text><!--MD5=[b79de33c563505c1c7ac4d1950f3e6d3]
+cluster Metadata--><rect fill="#FFFFFF" filter="url(#f986q2vofaf6a)" height="170" style="stroke: #000000; stroke-width: 1.5;" width="218" x="120" y="419"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="189.5" y="433.9951">Metadata</text><ellipse cx="229.1307" cy="61.0261" fill="#FEFECE" filter="url(#f986q2vofaf6a)" rx="83.1307" ry="19.0261" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="138" x="160.1307" y="65.6746">CRUD on Catalogue</text><ellipse cx="228.8259" cy="170.0236" fill="#FEFECE" filter="url(#f986q2vofaf6a)" rx="55.3259" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="74" x="191.8259" y="174.6721">Create CD</text><ellipse cx="229.2007" cy="234.9401" fill="#FEFECE" filter="url(#f986q2vofaf6a)" rx="65.2007" ry="15.4401" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="94" x="182.2007" y="239.5886">Retrieves CD</text><ellipse cx="229.0143" cy="300.2029" fill="#FEFECE" filter="url(#f986q2vofaf6a)" rx="61.5143" ry="14.7029" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="187.0143" y="304.8513">Updates CD</text><ellipse cx="228.7756" cy="364.0236" fill="#FEFECE" filter="url(#f986q2vofaf6a)" rx="60.2756" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="81" x="188.2756" y="368.6721">Deletes CD</text><ellipse cx="229.2229" cy="475.0446" fill="#FEFECE" filter="url(#f986q2vofaf6a)" rx="93.2229" ry="21.0446" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="148.7229" y="479.693">Creates new Metadata</text><ellipse cx="229.1144" cy="551.9229" fill="#FEFECE" filter="url(#f986q2vofaf6a)" rx="90.1144" ry="20.4229" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="154" x="152.1144" y="556.5713">Adds metadata to CD</text><!--MD5=[fee662a292a0353a69bd162820bae93b]
+entity User--><ellipse cx="21.5" cy="269" fill="#FEFECE" filter="url(#f986q2vofaf6a)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M21.5,277 L21.5,304 M8.5,285 L34.5,285 M21.5,304 L8.5,319 M21.5,304 L34.5,319 " fill="none" filter="url(#f986q2vofaf6a)" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="31" x="6" y="337.4951">User</text><!--MD5=[fa28ecafc366bd4d70e9f1756e1e3403]
+link User to CRUD on Catalogue--><path d="M26.3535,259.372 C31.6101,223.994 43.9804,173.157 73,139 C98.3762,109.131 137.992,89.476 170.821,77.368 " fill="none" id="User-to-CRUD on Catalogue" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="175.613,75.636,165.7891,74.9348,170.911,77.3362,168.5095,82.458,175.613,75.636" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d8b4a79a2dcfe63259d9494d696c4a7c]
+link User to Create CD--><path d="M34.2362,259.162 C42.0597,239.037 54.4007,216.118 73,202 C99.9993,181.505 136.971,173.332 168.034,170.364 " fill="none" id="User-to-Create CD" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="173.363,169.9,164.0504,166.6944,168.3818,170.333,164.7432,174.6643,173.363,169.9" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[2224036f53fb790a4209c01aa9e83773]
+link User to Retrieves CD--><path d="M37.2015,288.703 C46.8891,281.774 60.1218,273.253 73,268 C102.5004,255.967 137.028,248.068 165.998,243.025 " fill="none" id="User-to-Retrieves CD" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="170.968,242.178,161.4239,239.747,166.0391,243.0181,162.768,247.6332,170.968,242.178" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[4fcf94d9b3dce42577cbe05ebc30a0b6]
+link User to Updates CD--><path d="M37.2791,300 C63.0659,300 117.749,300 161.978,300 " fill="none" id="User-to-Updates CD" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="167.043,300,158.043,296,162.043,300,158.043,304,167.043,300" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[38e2129d43664559ada1abbe4fd1aa6c]
+link User to Deletes CD--><path d="M37.1905,311.324 C46.8737,318.264 60.1056,326.787 73,332 C103.5829,344.364 139.57,352.169 169.166,356.972 " fill="none" id="User-to-Deletes CD" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="174.237,357.776,165.9742,352.4163,169.2987,356.9932,164.7217,360.3176,174.237,357.776" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[952c4f4d6f2a4545ee8b0137fa779f3c]
+link User to Creates new Metadata--><path d="M37.0343,339.551 C45.3664,358.115 57.3207,379.51 73,395 C100.719,422.385 139.731,442.452 171.682,455.639 " fill="none" id="User-to-Creates new Metadata" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="176.342,457.534,169.5129,450.4372,171.7106,455.6497,166.4981,457.8474,176.342,457.534" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[8793162ed4610fe6707fd0278398903d]
+link User to Adds metadata to CD--><path d="M27.0924,340.565 C34.1111,395.349 49.2474,488.92 73,513 C89.9188,530.1522 113.191,540.1559 136.56,545.8871 " fill="none" id="User-to-Adds metadata to CD" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="141.546,547.0462,133.6863,541.1111,136.676,545.9134,131.8738,548.9031,141.546,547.0462" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[30cf23fe5801b921885f527e5db0c85c]
+@startuml
+'Participants
+left to right direction
+skinparam packageStyle rectangle
+actor User
+
+rectangle "Catalogue CRUD " {
+User - -> (CRUD on Catalogue) 
+}
+
+
+'Relationships
+rectangle "Catalogue management (CRUD CD)" {
+User - -> (Create CD) 
+User - -> (Retrieves CD)
+User - -> (Updates CD)
+User - -> (Deletes CD)
+}
+
+'Relationships
+rectangle "Metadata" {
+User - -> (Creates new Metadata) 
+User - -> (Adds metadata to CD)
+}
+@enduml
+
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor User
+
+rectangle "Catalogue CRUD " {
+User - -> (CRUD on Catalogue) 
+}
+
+
+rectangle "Catalogue management (CRUD CD)" {
+User - -> (Create CD) 
+User - -> (Retrieves CD)
+User - -> (Updates CD)
+User - -> (Deletes CD)
+}
+
+rectangle "Metadata" {
+User - -> (Creates new Metadata) 
+User - -> (Adds metadata to CD)
+}
+@enduml
+
+PlantUML version 1.2020.16beta10(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
